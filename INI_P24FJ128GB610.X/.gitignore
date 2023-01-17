@@ -1,0 +1,8 @@
+nbproject/
+debug/
+build/
+.generated_files/
+Makefile
+dist/default/production/INI_P24FJ128GB610.X.production.elf
+dist/default/production/INI_P24FJ128GB610.X.production.map
+dist/default/production/memoryfile.xml
