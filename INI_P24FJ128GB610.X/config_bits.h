@@ -1,9 +1,24 @@
 /* 
- * File:   
- * Author: 
- * Comments: MIDI PROJECT
- * Revision history: 
+ * File: config_bits.h  
+ * Author: Adrengineer
+ * Comments: 
+ * Revision history: Common version to all projects
  */
+
+/******************************************************************************/
+/* Change log                                                                 *
+ *
+ *
+ *
+ * Date         Revision    Comments
+ * MM/DD/YY
+ * --------     ---------   ----------------------------------------------------
+ * 24/05/22     1.0         Initial project.
+ *                          The purpose is to have a single SYSTEM configuration 
+ *                          file develop codes from different blocks.
+ * 06/10/22     1.1         Modified to use internal oscillator.
+ ******************************************************************************/
+
 
 // This is a guard condition so that contents of this file are not included
 // more than once.  
