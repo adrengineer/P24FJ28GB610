@@ -12,3 +12,5 @@ External oscillators are optional, and not necessary for running the microcontro
 ### INI_P24FJ128GB610.X
 This folder contains the initialization project. This project will initialize the microcontroller and toggle a pin to acknowledge *running status*.
 
+## ADC_P24FJ128GB610.X
+This project contains necessary files to initialize ADC module. It will toggle a port at a rate determine by the ADC read.
