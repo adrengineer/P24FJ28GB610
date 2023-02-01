@@ -14,3 +14,6 @@ This folder contains the initialization project. This project will initialize th
 
 ## ADC_P24FJ128GB610.X
 This project contains necessary files to initialize ADC module. It will toggle a port at a rate determine by the ADC read.
+
+## TMR_P24FJ128GB610
+This project allows you to use any timer of the microcontroller to toggle a port at frequency that you wish.
