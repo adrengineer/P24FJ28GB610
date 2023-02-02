@@ -13,7 +13,7 @@
 #include <p24FJ128GB610.h>
 
 #include "C:\Users\adren\Documents\Project-[G01]_P24FJ128GB610\INI_P24FJ128GB610.X\system.h"
-#include "C:\Users\adren\Documents\Project-[G01]_P24FJ128GB610\INI_P24FJ128GB610.X\config_bits.h"
+#include "config_bits.h"
 
 /*----------------------------------------------------------------------------*/
 /* Defines                                                                    */
