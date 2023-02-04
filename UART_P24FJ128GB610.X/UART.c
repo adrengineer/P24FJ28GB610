@@ -1,5 +1,5 @@
 /*
- * File:   UART.c
+ * File:   UART.c  - P24FJ128GB610 REPOSITORY
  * Author: Adrengineer
  *
  * Created on 26 January 2022, 09:30
@@ -14,7 +14,6 @@
  * --------     ---------   ----------------------------------------------------
  * 25/01/21     1.0         Created log.
  * 04/11/22     1.1         Added to UART_P24FJ128GB610 project
- * 04/11/22     1.7         MIDI_P24FJ128GB610 project
  * 
  ***************************************************************************** */
 
