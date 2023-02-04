@@ -1,6 +1,6 @@
 /*
- * File:   ADC.h
- * Author: Adrian Moreno
+ * File:   ADC.h  - P24FJ128GB610 REPOSITORY
+ * Author: Adrenginner
  * Comments: 
  * 
  * Revision history
@@ -16,7 +16,6 @@
  * MM/DD/YY
  * --------     ---------   ----------------------------------------------------
  * 08/06/22     1.0         Created log.
- * 31/10/22     2.0         Modified at UnionAudio for DreamHat v3.0
  ***************************************************************************** */
 
 

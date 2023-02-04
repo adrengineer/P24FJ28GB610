@@ -1,5 +1,5 @@
 /* 
- * File: system.h  
+ * File: system.h    - P24FJ128GB610 REPOSITORY
  * Author: Adrengineer
  * Comments: 
  * Revision history: Common version to all projects
@@ -13,10 +13,14 @@
  * Date         Revision    Comments
  * MM/DD/YY
  * --------     ---------   ----------------------------------------------------
- * 24/05/22     1.0         Initial project.
+ * 24/05/22     1.0         Initial project  INI_P24JF128GB256.X
  *                          The purpose is to have a single SYSTEM configuration 
  *                          file develop codes from different blocks.
  * 06/10/22     1.1         Modified to use internal oscillator.
+ * 08/06/22     1.1         Added to project ADC_P24FJ128GB256.X
+ * 01/11/22     1.1         Added to project TMR_P24FJ128GB256.X
+ * 04/11/22     1.1         Added to project UART_P24FJ128GB610.X
+ * 05/10/22     1.0         Added to project LCD_P24FJ128GB610.X
  ******************************************************************************/
 
 
@@ -125,7 +129,7 @@
 //#define _LCD_MODE           1
 #define _INTERRUPTS         1
 //#define _PMP                0
-#define _I2C                1
+//#define _I2C                1
 
 
 #if defined (__PIC24FJ128GB610__)
