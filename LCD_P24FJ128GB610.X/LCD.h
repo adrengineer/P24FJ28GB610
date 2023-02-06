@@ -13,7 +13,7 @@
  * MM/DD/YY
  * --------     ---------   ----------------------------------------------------
  * 5/10/22      1.0         Initial project. P24FJ128GB610.
- * 26/10/22     1.2         Integrated with I2C LCD. 
+ * 26/10/22     1.2         Added to project I2C_P24FJ128GB610
  ******************************************************************************/
 
 // This is a guard condition so that contents of this file are not included
@@ -25,12 +25,12 @@
 /* Files to Include                                                           */
 /*----------------------------------------------------------------------------*/
 
-#include "C:\Users\adren\Documents\Project-[G01]_P24FJ128GB610\INI_P24FJ128GB610.X\system.h"
+#include "C:\Users\adren\Documents\P_G01_P24FJ128GB610\INI_P24FJ128GB610.X\system.h"
 #ifdef _I2C
     #define _LCD_I2C 1
 #endif  
 #ifdef _LCD_I2C
-    #include "C:\Users\adren\Documents\Project-[G01]_P24FJ128GB610\I2C_P24FJ128GB610.X\I2C.h"
+    #include "C:\Users\adren\Documents\P_G01_P24FJ128GB610\I2C_P24FJ128GB610.X\I2C.h"
 #endif
 
 

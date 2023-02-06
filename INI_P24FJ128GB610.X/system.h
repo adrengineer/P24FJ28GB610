@@ -128,8 +128,8 @@
 #define _DEBUGGING          0
 //#define _LCD_MODE           1
 #define _INTERRUPTS         1
-//#define _PMP                0
-//#define _I2C                1
+#define _PMP                1
+#define _I2C                1
 
 
 #if defined (__PIC24FJ128GB610__)
